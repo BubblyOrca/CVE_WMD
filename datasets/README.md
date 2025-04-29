@@ -1,1 +1,7 @@
 
+| **Kaggle Dataset**                                        | **How It Relates Vulnerability Applications**                          | **Data Science Techniques to Practice**                   |
+|-----------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------|
+| [CVE Vulnerability Database](https://www.kaggle.com/datasets/sophiewang/cve-vulnerability-dataset) | Train models to prioritize vulnerabilities based on severity, CVSS scores, or exploitability. | Risk scoring, classification, NLP on CVE descriptions, clustering similar vulnerabilities. |
+| [Exploit Database](https://www.kaggle.com/datasets/kingburrito666/exploit-database)              | Build predictive models to classify or rank vulnerabilities based on associated exploits. | Classification, feature engineering, text mining.        |
+| [Security Threat Intelligence Feeds (MITRE ATT&CK)](https://www.kaggle.com/datasets/mirichoi0218/mitre-attck-threat-actor-dataset) | Integrate threat intelligence to enhance vulnerability prioritization models.     | Graph analysis, entity linking, risk modeling.           |
+| [Network Intrusion Detection (NSL-KDD)](https://www.kaggle.com/datasets/zyxan/nslkdd)            | Understand how anomalies appear in attack behavior, and apply this to endpoint health scoring or alert prioritization. | Anomaly detection, supervised classification, feature selection. |
