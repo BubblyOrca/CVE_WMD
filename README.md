@@ -13,3 +13,15 @@ Security, Risk, Compliance, Efficiency, Automation, and Performance
 | Predictive Compliance Monitoring   | Predict systems likely to fall out of compliance with patch policies or SLAs.               | Forecasting, rules-based classification                    |
 | Security Alert Prioritization     | Filter false positives and prioritize security alerts based on contextual risk.             | Supervised learning, anomaly detection                     |
 
+
+### ⚙️ Operations-Focused Applications (Efficiency, Automation, Performance)
+
+| Application Area                      | How It Applies at NinjaOne                                                                 | Data Science Techniques to Practice                        |
+|--------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| Endpoint Health Scoring              | Develop a health score that reflects uptime, CPU/memory usage, patch status, and responsiveness. | Feature engineering, regression modeling                   |
+| Failure Prediction (Device/Endpoint) | Predict endpoint failures or maintenance needs to enable proactive support.                 | Time-series forecasting, survival analysis                 |
+| Automation Opportunity Discovery     | Identify repetitive tasks across MSP clients that could be automated.                       | Unsupervised learning, clustering, decision trees          |
+| Support Ticket Volume Forecasting    | Predict future ticket loads to optimize staffing and SLA adherence.                         | Time-series forecasting, Poisson models                    |
+| License Usage & Optimization         | Analyze endpoint usage patterns to recommend license tier adjustments or cost savings.      | Usage pattern analysis, clustering                         |
+| Operational KPI Monitoring & Anomaly Detection | Monitor and flag anomalies in key operational metrics like patch success rate, uptime, and response times. | Anomaly detection, real-time analytics                     |
+| Client Segmentation / Churn Analysis | Segment MSP clients by usage behavior or churn risk to inform engagement strategies.        | Clustering, classification models, survival analysis       |
