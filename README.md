@@ -3,7 +3,7 @@ Security, Risk, Compliance, Efficiency, Automation, and Performance
 
 ### 🛡️ Vulnerability-Focused Applications (Security, Risk, Compliance)
 
-| Application Area                    | Application                                                               | Data Science Techniques to Practice                        |
+| Application Area                    | Application                                                               | Data Science Techniques                      |
 |------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | Patch Failure Prediction           | Identify endpoints likely to fail patching and prioritize remediation.                      | Predictive modeling, classification algorithms             |
 | Vulnerability Scoring / Prioritization | Rank vulnerabilities by severity, exploitability, and asset value.                        | Risk scoring models, clustering, anomaly detection         |
@@ -16,7 +16,7 @@ Security, Risk, Compliance, Efficiency, Automation, and Performance
 
 ### ⚙️ Operations-Focused Applications (Efficiency, Automation, Performance)
 
-| Application Area                      | Application                                                                | Data Science Techniques to Practice                        |
+| Application Area                      | Application                                                                | Data Science Techniques                   |
 |--------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | Endpoint Health Scoring              | Develop a health score that reflects uptime, CPU/memory usage, patch status, and responsiveness. | Feature engineering, regression modeling                   |
 | Failure Prediction (Device/Endpoint) | Predict endpoint failures or maintenance needs to enable proactive support.                 | Time-series forecasting, survival analysis                 |
