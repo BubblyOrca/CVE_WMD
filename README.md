@@ -14,7 +14,7 @@ Security, Risk, Compliance, Efficiency, Automation, and Performance
 | Security Alert Prioritization     | Filter false positives and prioritize security alerts based on contextual risk.             | Supervised learning, anomaly detection                     |
 
 
-### ⚙️ Operations-Focused Applications (Efficiency, Automation, Performance)
+### ⚙️ Operations Applications (Efficiency, Automation, Performance)
 
 | Application Area                      | Application                                                                | Data Science Techniques                   |
 |--------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------|
