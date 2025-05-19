@@ -18,7 +18,7 @@ Security, Risk, Compliance, Efficiency, Automation, and Performance
 
 | Application Area                      | Application                                                                | Data Science Techniques                   |
 |--------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| Endpoint Health Scoring              | Develop a health score that reflects uptime, CPU/memory usage, patch status, and responsiveness. | Feature engineering, regression modeling                   |
+| Endpoint Health Scoring              | Develop a health score that reflects uptime and endpoint accuracy, CPU/memory usage, patch status, and responsiveness. | Feature engineering, regression modeling                   |
 | Failure Prediction (Device/Endpoint) | Predict endpoint failures or maintenance needs to enable proactive support.                 | Time-series forecasting, survival analysis                 |
 | Automation Opportunity Discovery     | Identify repetitive tasks across MSP clients that could be automated.                       | Unsupervised learning, clustering, decision trees          |
 | Support Ticket Volume Forecasting    | Predict future ticket loads to optimize staffing and SLA adherence.                         | Time-series forecasting, Poisson models                    |
