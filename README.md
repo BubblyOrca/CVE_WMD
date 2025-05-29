@@ -6,7 +6,7 @@ Security, Risk, Compliance, Efficiency, Automation, and Performance
 | Application Area                    | Application                                                               | Data Science Techniques                      |
 |------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | Patch Failure Prediction           | Identify endpoints likely to fail patching and prioritize remediation.                      | Predictive modeling, classification algorithms             |
-| Vulnerability Scoring / Prioritization | Rank vulnerabilities by severity, exploitability, and asset value.                        | Risk scoring models, clustering, anomaly detection         |
+| Vulnerability Scoring / Prioritization (Risk Score)| Rank vulnerabilities by severity, exploitability, and asset value.                        | Risk scoring models, clustering, anomaly detection         |
 | Exploit Pattern Detection          | Spot unusual behavior or patch gaps that align with known exploits.                         | Sequence modeling, anomaly detection, time-series analysis |
 | Endpoint Risk Assessment           | Score endpoints based on configuration drift, missing patches, or outdated software.        | Risk modeling, ensemble learning                           |
 | Threat Intelligence Integration    | Ingest CVE reports, vendor advisories, and threat feeds to enhance decision-making.         | NLP, graph analysis, entity linking                        |
