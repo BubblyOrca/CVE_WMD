@@ -1,5 +1,5 @@
 # CVE_WMD
-Security, Risk, Compliance, Efficiency, Automation, and Performance
+Reducing software attack surfaces via Security, Risk, Compliance, Efficiency, Automation, and Performance
 
 ### 🛡️ Vulnerability-Focused Applications (Security, Risk, Compliance)
 
