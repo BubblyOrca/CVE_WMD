@@ -24,4 +24,4 @@ Reducing software attack surfaces via Security, Risk, Compliance, Efficiency, Au
 | Support Ticket Volume Forecasting    | Predict future ticket loads to optimize staffing and SLA adherence.                         | Time-series forecasting, Poisson models                    |
 | License Usage & Optimization         | Analyze endpoint usage patterns to recommend license tier adjustments or cost savings.      | Usage pattern analysis, clustering                         |
 | Operational KPI Monitoring & Anomaly Detection | Monitor and flag anomalies in key operational metrics like patch success rate, uptime, and response times. | Anomaly detection, real-time analytics                     |
-| Client Segmentation / Churn Analysis | Segment MSP clients by usage behavior or churn risk to inform engagement strategies.        | Clustering, classification models, survival analysis       |
+| Client Segmentation / Churn Analysis | Segment MSP clients by usage behavior or churn risk to inform engagement strategies: cancelling services, hiring competitors, not renewing subscriptions   | Clustering, classification models, survival analysis       |
